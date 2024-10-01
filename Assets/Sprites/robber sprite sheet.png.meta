@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: ee4992c2f298f4dc683a2ad64349439f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2265788323026609218
+    second: robber sprite sheet_0
+  - first:
+      213: -2089220845366207035
+    second: robber sprite sheet_1
+  - first:
+      213: 2427296405331679975
+    second: robber sprite sheet_2
+  - first:
+      213: 2201124637489413523
+    second: robber sprite sheet_3
+  - first:
+      213: -5867367408330832041
+    second: robber sprite sheet_4
+  - first:
+      213: 4407788734254621701
+    second: robber sprite sheet_5
+  - first:
+      213: -928340365738409807
+    second: robber sprite sheet_6
+  - first:
+      213: 6379823707112151352
+    second: robber sprite sheet_7
+  - first:
+      213: -3323163706056794055
+    second: robber sprite sheet_8
+  - first:
+      213: 8105192432891121545
+    second: robber sprite sheet_9
+  - first:
+      213: -8053276443105329525
+    second: robber sprite sheet_10
+  - first:
+      213: 5419657105454410657
+    second: robber sprite sheet_11
+  - first:
+      213: 4496696301886587510
+    second: robber sprite sheet_12
+  - first:
+      213: 447881693408592770
+    second: robber sprite sheet_13
+  - first:
+      213: 1758464140695860938
+    second: robber sprite sheet_14
+  - first:
+      213: 3724944083784557955
+    second: robber sprite sheet_15
+  - first:
+      213: -7761362187343314900
+    second: robber sprite sheet_16
+  - first:
+      213: -271918816996539003
+    second: robber sprite sheet_17
+  - first:
+      213: 6648150543864654300
+    second: robber sprite sheet_18
+  - first:
+      213: -5751020355791379395
+    second: robber sprite sheet_19
+  - first:
+      213: 4915010919160318282
+    second: robber sprite sheet_20
+  - first:
+      213: 7740307598190570360
+    second: robber sprite sheet_21
+  - first:
+      213: -4064249339675590119
+    second: robber sprite sheet_22
+  - first:
+      213: -1220888445464680448
+    second: robber sprite sheet_23
+  - first:
+      213: 3988652569597521385
+    second: robber sprite sheet_24
+  - first:
+      213: -2240178235173919262
+    second: robber sprite sheet_25
+  - first:
+      213: -6753346004690839721
+    second: robber sprite sheet_26
+  - first:
+      213: -1725513292906456287
+    second: robber sprite sheet_27
+  - first:
+      213: -1080972273439642418
+    second: robber sprite sheet_28
+  - first:
+      213: -7489499802142847882
+    second: robber sprite sheet_29
+  - first:
+      213: -2959462480754109009
+    second: robber sprite sheet_30
+  - first:
+      213: -2433794554566588864
+    second: robber sprite sheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robber sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 9036
+        width: 771
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244aa32a972b17f10800000000000000
+      internalID: 2265788323026609218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 8787
+        width: 751
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1b96d5b89103e0800000000000000
+      internalID: -2089220845366207035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 9109
+        width: 771
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea9064683d7fa120800000000000000
+      internalID: 2427296405331679975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 8787
+        width: 752
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dbaeb1237fb8e10800000000000000
+      internalID: 2201124637489413523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 7551
+        width: 410
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578cb3cd6ce29ea0800000000000000
+      internalID: -5867367408330832041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 7590
+        width: 976
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5042736108c9b2d30800000000000000
+      internalID: 4407788734254621701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 7625
+        width: 410
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0818d1b5fdd13f0800000000000000
+      internalID: -928340365738409807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 7590
+        width: 976
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83919002cdfa98850800000000000000
+      internalID: 6379823707112151352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 6506
+        width: 771
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930a30a5730c1e1d0800000000000000
+      internalID: -3323163706056794055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 6253
+        width: 752
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc8a6139d6b7070800000000000000
+      internalID: 8105192432891121545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 6580
+        width: 771
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7faa3eb30d3090800000000000000
+      internalID: -8053276443105329525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 6253
+        width: 755
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab280f3c6d763b40800000000000000
+      internalID: 5419657105454410657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 5134
+        width: 410
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67243c84679776e30800000000000000
+      internalID: 4496696301886587510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 5173
+        width: 976
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2830505f602373600800000000000000
+      internalID: 447881693408592770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 5208
+        width: 410
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac67078b1d1576810800000000000000
+      internalID: 1758464140695860938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 5173
+        width: 971
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385eb2a98e8a1b330800000000000000
+      internalID: 3724944083784557955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3914
+        width: 616
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c04a463a1a4490800000000000000
+      internalID: -7761362187343314900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 3773
+        width: 791
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5854d21d643f93cf0800000000000000
+      internalID: -271918816996539003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 3977
+        width: 615
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96f5c32b9f24c50800000000000000
+      internalID: 6648150543864654300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 3894
+        width: 991
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a305e4754030b0800000000000000
+      internalID: -5751020355791379395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2668
+        width: 596
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4987bfd360a53440800000000000000
+      internalID: 4915010919160318282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2576
+        width: 991
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be76a20c81b6b60800000000000000
+      internalID: 7740307598190570360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2737
+        width: 595
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912450642c2e897c0800000000000000
+      internalID: -4064249339675590119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 2498
+        width: 790
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e2b96d688e0fe0800000000000000
+      internalID: -1220888445464680448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1467
+        width: 620
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2f47116a8a5730800000000000000
+      internalID: 3988652569597521385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1272
+        width: 791
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a5ea93c949e0e0800000000000000
+      internalID: -2240178235173919262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 1541
+        width: 615
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575919e69b4742a0800000000000000
+      internalID: -6753346004690839721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 1350
+        width: 991
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b98116dcebd08e0800000000000000
+      internalID: -1725513292906456287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 193
+        width: 596
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc659dc17d9ff0f0800000000000000
+      internalID: -1080972273439642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 173
+        width: 995
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ccaeb6c93ff0890800000000000000
+      internalID: -7489499802142847882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 266
+        width: 595
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa51e8cbd80ede6d0800000000000000
+      internalID: -2959462480754109009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robber sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 47
+        width: 791
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04647c65fbc693ed0800000000000000
+      internalID: -2433794554566588864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
